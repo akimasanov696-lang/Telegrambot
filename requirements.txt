@@ -1,0 +1,3 @@
+aiogram>=3.0
+yookassa>=2.0
+aiohttp>=3.8
